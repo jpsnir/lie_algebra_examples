@@ -1,3 +1,9 @@
 [submodule "kalmanif"]
 	path = kalmanif
 	url = https://github.com/artivis/kalmanif.git
+[submodule "cpp_filter"]
+	path = cpp_filter
+	url = https://github.com/aalbaali/cpp_filter.git
+[submodule "ukfm"]
+	path = ukfm
+	url = https://github.com/CAOR-MINES-ParisTech/ukfm.git
